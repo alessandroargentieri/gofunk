@@ -1,4 +1,4 @@
-package main
+package gofunk
 
 // Either struct is the equivalent of functional Scala Either: a wrapper for the result/error response
 type Either struct {

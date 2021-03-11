@@ -1,4 +1,4 @@
-package main
+package gofunk
 
 // Future struct is a monad implementing a parallel task to be performed
 type Future struct {
